@@ -1,4 +1,4 @@
-# Github Explorer | Primeiro projeto com React
+# Github Explorer
 
 ### Descrição
 
